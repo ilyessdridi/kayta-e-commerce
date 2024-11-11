@@ -1,2 +1,2 @@
 # kayta-e-commerce
-e-commerce website
+e-commerce website for clothing business .
